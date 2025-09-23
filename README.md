@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes poner:
 
 ``` npm install react ```
+
+code . dentro de la carpeta en la terminal de git bash para entrar a visual directamente 
